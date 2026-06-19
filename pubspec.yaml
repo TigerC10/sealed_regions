@@ -1,5 +1,5 @@
 name: sealed_regions
-version: 0.0.1
+version: 1.0.0
 description: Provides data for UN M.49 geographic regions in the form of sealed classes.
 repository: https://github.com/tigerc10/sealed_regions
 
