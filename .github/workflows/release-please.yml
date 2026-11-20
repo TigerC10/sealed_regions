@@ -37,7 +37,7 @@ jobs:
       # The dart binary from a Flutter SDK facilitates publishing both Flutter and pure-dart packages.
       # https://github.com/dart-lang/setup-dart/blob/2bd11704788983a6a210731656d0042e2df8b2c1/.github/workflows/publish.yml#L39-L41
       - name: Setup Flutter SDK
-        uses: flutter-actions/setup-flutter@v4
+        uses: flutter-actions/setup-flutter@v5
         with:
           channel: stable
           version: 3.0.2
